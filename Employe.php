@@ -1,6 +1,6 @@
 <?php
 
-class Employe extends Personnage{
+class Employe extends Perso{
     private $emploi;
     private $salaire;
 

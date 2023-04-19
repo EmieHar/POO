@@ -1,6 +1,6 @@
 <?php 
 
-class Personnage {
+class Perso {
     //datas
     private $_nom;
     private $_prenom;

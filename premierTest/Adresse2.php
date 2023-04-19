@@ -9,7 +9,7 @@ class Adresse2
     private $ville;
     private $pays;
 
-    //méthode
+    //méthodes
     public function __construct($n, $r, $cp, $v, $p)
     {
         $this->norue = $n;
